@@ -2,7 +2,7 @@
   "name": "huddle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rogerrc12.github.io/simple-app/",
+  "homepage": "https://rogerrc12.github.io/huddle/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
